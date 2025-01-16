@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	_ "src/study_go01/function/InitLib1"
-	_ "src/study_go01/function/InitLib2"
+	_ "src/easyGo/study_go01/function/InitLib1"
+	_ "src/easyGo/study_go01/function/InitLib2"
 )
 
 func init() {
