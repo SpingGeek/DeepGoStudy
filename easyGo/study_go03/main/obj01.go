@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"src/study_go03/function"
+	"src/easyGo/study_go03/function"
 )
 
 func main() {
