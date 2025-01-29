@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="base32-encoder-decoder">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="json-path" id="0e30e128-d02e-46c9-92c7-a00a687d3b42" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|{&#10;  &quot;starWars&quot;: {&#10;    &quot;characters&quot;: [&#10;      {&#10;        &quot;forename&quot;: &quot;Luke&quot;,&#10;        &quot;surname&quot;: &quot;Skywalker&quot;,&#10;        &quot;birthdate&quot;: &quot;19 BBY&quot;,&#10;        &quot;homeWorld&quot;: &quot;Tatooine&quot;&#10;      },&#10;      {&#10;        &quot;forename&quot;: &quot;Leia&quot;,&#10;        &quot;surname&quot;: &quot;Organa&quot;,&#10;        &quot;birthdate&quot;: &quot;19 BBY&quot;,&#10;        &quot;homeWorld&quot;: &quot;Alderaan&quot;&#10;      },&#10;      {&#10;        &quot;forename&quot;: &quot;Ben&quot;,&#10;        &quot;surname&quot;: &quot;Solo&quot;,&#10;        &quot;birthdate&quot;: &quot;5 ABY&quot;,&#10;        &quot;homeWorld&quot;: &quot;Chandrila&quot;&#10;      }&#10;    ],&#10;    &quot;ships&quot;: [&#10;      {&#10;        &quot;type&quot;: &quot;Imperial Star Destroyer&quot;,&#10;        &quot;class&quot;: &quot;Carrier&quot;&#10;      },&#10;      {&#10;        &quot;type&quot;: &quot;X-Wing Starfighter&quot;,&#10;        &quot;class&quot;: &quot;Space superiority fighter&quot;&#10;      }&#10;    ]&#10;  }&#10;}" />
+          <property key="contentText" type="INPUT" value="kotlin.String|$.starWars.characters..forename" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+  </component>
+</project>
